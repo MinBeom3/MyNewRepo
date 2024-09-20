@@ -1,5 +1,4 @@
-# Greatest Common
-Divisor algorithm
+# Greatest Common Divisor algorithm
 
 def gcd(a, b):
     while b:
